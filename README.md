@@ -2,6 +2,7 @@
 
 ## About me
 My name is Samuel Gomes (he/him) and I've started programming 4 years ago. I'm currently working as **Freelancer**.
+
 My main languages are **Java** and **Kotlin**.
 
 ## Contact
