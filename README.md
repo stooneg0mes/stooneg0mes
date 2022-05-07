@@ -6,3 +6,5 @@ I'm currently working as **Freelancer**. My main languages are **Java** & **Kotl
 ## Contact
 - [Discord](https://discord.com/users/488885110251192330) *(stonegomes#0404)*
 - [Twitter](https://twitter.com/semogenoots) *(@semogenoots)*
+
+![snake gif](https://github.com/stooneg0mes/stooneg0mes/blob/output/github-contribution-grid-snake.svg)
