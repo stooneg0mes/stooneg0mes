@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name is Samuel Gomes (he/him) and I've started programming **4 years ago**.
+My name is Samuel Gomes and I've started programming **4 years ago**.
 
 I'm currently working as **Freelancer**. My main languages are **Java** & **Kotlin**.
 
