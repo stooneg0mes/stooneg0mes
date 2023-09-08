@@ -14,5 +14,3 @@ Please feel free to reach out to me if you have any questions or would like to g
 
 - [Discord](https://discord.com/users/488885110251192330) *(stoneg0mes#0485)*
 - [E-mail](mailto:stoone.holy@gmail.com) *(stoone.holy@gmail.com)*
-
-![snake gif](https://github.com/stooneg0mes/stooneg0mes/blob/output/github-contribution-grid-snake.svg)
